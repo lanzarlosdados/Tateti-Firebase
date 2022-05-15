@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551225843720",
+    "project_id": "tateti-firebase2022",
+    "storage_bucket": "tateti-firebase2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551225843720:android:29e31e9db48493e8ea31bd",
+        "android_client_info": {
+          "package_name": "ar.com.develup.tateti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551225843720-mpee72q3lprsij3claidgf36pbdh2qsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJ-ER3s1LWG5bLGO79JOTRuMSF_G4_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551225843720-mpee72q3lprsij3claidgf36pbdh2qsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
