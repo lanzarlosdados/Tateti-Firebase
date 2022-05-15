@@ -6,6 +6,7 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import ar.com.develup.tateti.R
 import com.google.android.material.snackbar.Snackbar
+import com.google.firebase.crashlytics.FirebaseCrashlytics
 import kotlinx.android.synthetic.main.actividad_inicial.*
 
 class ActividadInicial : AppCompatActivity() {
@@ -94,10 +95,9 @@ class ActividadInicial : AppCompatActivity() {
         val email = email.text.toString()
         val password = password.text.toString()
 
-
         // TODO-05-AUTHENTICATION
         // IMPORTANTE: Eliminar  la siguiente linea cuando se implemente authentication
-        verPartidas()
+        // verPartidas()
 
 
         // TODO-05-AUTHENTICATION
